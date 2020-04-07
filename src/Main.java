@@ -20,7 +20,7 @@ public class Main {
         ArrayOrganizer arrayOrganizer = new ArrayOrganizer();
 
         System.out.println(arrayOrganizer.concatAndSort(list1,list2,list3));
-
+        System.out.println("Successfully reverted in Git");
 
 
     }
